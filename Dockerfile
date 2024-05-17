@@ -1,4 +1,1 @@
-FROM ubuntu:latest
-RUN apt update
-RUN apt install bash
-RUN echo 'Hello, World!'
+FROM hello-world
